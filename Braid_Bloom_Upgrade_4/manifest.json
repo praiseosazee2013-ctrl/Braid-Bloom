@@ -1,0 +1,13 @@
+{
+  "name": "Braid & Bloom",
+  "short_name": "Braid & Bloom",
+  "description": "Explore braid tutorials, school hairstyles and gentle hair, skin and nail-care routines.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#101014",
+  "theme_color": "#101014",
+  "icons": [
+    {"src":"icon.png","sizes":"512x512","type":"image/png","purpose":"any maskable"}
+  ]
+}

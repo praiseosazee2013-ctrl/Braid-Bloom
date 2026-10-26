@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://praiseosazee2013-ctrl.github.io/Braid-Bloom/sitemap.xml
